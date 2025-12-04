@@ -48,7 +48,7 @@ public class Program
 
         for (var i = 0; i < days; i++)
         {
-            Console.WriteLine("-------- day " + i + " --------");
+            Console.WriteLine("-------- day " + i + " --------"); 
             Console.WriteLine("name, sellIn, quality");
             for (var j = 0; j < items.Count; j++)
             {
